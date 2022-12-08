@@ -1,4 +1,4 @@
-# FRB20190520B
+# FRB 20190520B
 All the necessary scripts to reproduce Anna-Thomas et (2022)
 
 RM Synthesis folder contains a python script used to search for Rotation Measure (RM) and the PDF of the detection plots. 
